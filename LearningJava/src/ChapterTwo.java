@@ -3,9 +3,10 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class ChapterTwo {
     public static void main(String[] args) {
         // 2. Java Basics
+        System.out.println("---Chapter 2---");
         Car myCar = new Car(25.5, "SYN7H", Color.BLUE, true);
         Car soniaCar = new Car(32.8, "K35TUO", Color.BLACK, true);
 
